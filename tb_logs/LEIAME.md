@@ -1,0 +1,1 @@
+Tive que adicionar os arquivos de checkpoint de treinamento ao .gitignore, pois eles estavam ocupando muito espaço, e o GitHub não permite arquivos maiores que 100 MB.
